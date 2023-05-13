@@ -1,5 +1,5 @@
 
-# Mozilla Luganda ASR Winners Leaderboard
+# 4th place solution Mozilla Luganda Automatic Speech Recognition
 
 Voice recognition technologies can make services more accessible and more human. But the problem is that automatic speech recognition (ASR) requires enormous amounts of voice data.
 
@@ -14,7 +14,9 @@ A more accurate ASR model for Luganda could lead to new mobile applications and 
 To be eligible to win the NVIDIA and GTC prizes, you must register for GTC before 31 October 2021. You can register here.
 
 The dataset has been made possible through the work of Makerere AI lab. The lab  is working towards building a Luganda data set through the Common Voice platform as part of their work of building NLP text and speech data set for low resourced languages in East Africa.
-link to the competition: https://zindi.africa/competitions/turtle-recall-conservation-challenge/
+link to the competition: https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition
+
+In this solution, A wav2vec transformer model from hugginface was fine turned with luganda mozilla dataset with the exception of a language model
 
 
 ## 🚀 About Me
