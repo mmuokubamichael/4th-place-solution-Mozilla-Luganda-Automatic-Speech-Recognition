@@ -14,6 +14,7 @@ A more accurate ASR model for Luganda could lead to new mobile applications and 
 To be eligible to win the NVIDIA and GTC prizes, you must register for GTC before 31 October 2021. You can register here.
 
 The dataset has been made possible through the work of Makerere AI lab. The lab  is working towards building a Luganda data set through the Common Voice platform as part of their work of building NLP text and speech data set for low resourced languages in East Africa.
+link to the competition: https://zindi.africa/competitions/turtle-recall-conservation-challenge/
 
 
 ## 🚀 About Me
